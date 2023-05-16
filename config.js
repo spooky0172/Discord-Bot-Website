@@ -30,9 +30,9 @@ const config = {
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
-      name: "Welcomer",
+      name: "Fun Commands",
       description:
-        "Welcomer is the person who greet the new person in an unique and great way",
+        "Fun Commands with these fun commands you can do great thing like zawardo!",
       logo: <CgCrown className="h-10 w-10" />,
     },
     // You can added more features if need add
