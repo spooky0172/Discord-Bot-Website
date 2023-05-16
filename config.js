@@ -32,7 +32,7 @@ const config = {
     {
       name: "Fun Commands",
       description:
-        "Fun Commands with these fun commands you can do great thing like zawardo!",
+        "Fun Commands with these fun commands you can do great thing like zawarudo!",
       logo: <CgCrown className="h-10 w-10" />,
     },
     // You can added more features if need add
