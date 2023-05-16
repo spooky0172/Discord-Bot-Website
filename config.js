@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Spookys bot",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1106979668931903618&permissions=8&scope=bot",
   //BotInvite Link
   Features: [
     {
@@ -38,10 +38,10 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
-  executedCommand: 27000, //--  - Stats
-  availableCommand: 400, //---   - Here
+  serverCount: 1, //-  - Your
+  memberCount: 60, //--   - Bot
+  executedCommand: 0, //--  - Stats
+  availableCommand: 2, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://discord.gg/jz2F9XJW3F",
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  discordLink: "https://discord.gg/jz2F9XJW3F",
+  youtubeLink: "https://www.youtube.com/channel/UCihakgdu2AnjCxRV0kx0hUA",
 };
 
 export default config;
